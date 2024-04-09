@@ -1,0 +1,8 @@
+{
+  "appId": "com.stuarttech.the_circle",
+  "appName": "the_circle",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
