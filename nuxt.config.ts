@@ -8,4 +8,11 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
+  build: {
+    transpile: ["konsta"],
+  },
+  sourcemap: {
+    client: true,
+  },
+  telemetry: false,
 });
